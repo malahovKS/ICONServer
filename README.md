@@ -1,4 +1,4 @@
-# Instrumental complex for ontological engineering purpose
+# Instrumental complex for ontological engineering purpose (the main elements of the project)
 ICOP is a system that implements one of the areas of Data & Text Mining integrated technology, specifically – the analysis and processing of large volumes of unstructured data, such as linguistic corpus in Ukrainian and/or Russian languages, the extraction of subject knowledge and their subsequent representation in the form of system-ontological structure or DA ontology. ICOP is designed to implement multiple components of the unified information technology [3]:
 
  - Search the Internet and/or in other electronic collections of text
