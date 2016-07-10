@@ -26,10 +26,9 @@ The structure of SS mathematical models of this type includes the following mode
  – Functionally distributed model.
 The generalized data model of integrated
 information technology, which implemented by SS ICOP can be represented by the following scheme Eq.1:
-M =<P,A,X,Ω>, (1)
-where
-P ={pi},i =1,n – set of processes implemented
-by the system;
+         M =<P,A,X,Ω>, (1)
+         where
+         P ={pi},i =1,n – set of processes implemented by the system;
 A={A}z,j=1,m,m≥n – set of algorithms
 that implement the set of processes { pi }, that
 together make up the sequence of information technologies and integrated information technology in general;
